@@ -53,6 +53,7 @@ This project develops a **Retrieval-Augmented Generation (RAG)** system that com
 
 Here is a sample output from the application:  
 
-![Output Preview](path/to/your/image.png)  
+![Output Preview](output/output1.png)
+![Output Preview](output/output2.png)
 
 *The above image shows the user interface with a sample CV uploaded, job matching results, and job recommendations displayed.*
